@@ -6,6 +6,7 @@ permalink: /contact/
 
 ## Contact
 
-📧 Email: [nazanin.mottaghi@gmail.com](mailto:nazanin.mottaghi@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/nazaninmottaghi](https://linkedin.com/in/nazaninmottaghi)  
+📧 Email: [mottagh@kth.se](mailto:mottagh@kth.se)  
+📧 Email: [fatemeh.mottaghi@sharif.edu](mailto:fatemeh.mottaghi@sharif.edu) 
+💼 LinkedIn: [linkedin.com/in/nazaninmottaghi](www.linkedin.com/in/nazanin-mottaghi)  
 🧠 GitHub: [github.com/NazaninMottaghi](https://github.com/NazaninMottaghi)
