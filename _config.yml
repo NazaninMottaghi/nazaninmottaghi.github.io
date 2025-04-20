@@ -4,5 +4,5 @@ description: >-
   Personal website of Dr. Nazanin Mottaghi – Postdoctoral Researcher in Digital Finance
 baseurl: ""
 url: "https://nazaninmottaghi.github.io"
-theme: minima
+theme: jekyll-theme-cayman
 markdown: kramdown
