@@ -1,0 +1,8 @@
+title: Nazanin Mottaghi
+email: nazanin.mottaghi@gmail.com
+description: >-
+  Personal website of Dr. Nazanin Mottaghi – Postdoctoral Researcher in Digital Finance
+baseurl: ""
+url: "https://nazaninmottaghi.github.io"
+theme: minima
+markdown: kramdown
