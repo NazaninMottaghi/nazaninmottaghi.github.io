@@ -14,9 +14,9 @@ title: Home
 </nav>
 
 
-# 👋 Welcome
+# 👋 Welcome!
 
-I’m Dr. Nazanin Mottaghi, a postdoctoral researcher in digital finance.  
-I work on blockchain, tokenization, and decentralized finance.
+I’m Nazanin Mottaghi — passionate about digital finance, blockchain, and the future of real estate markets.
 
-Explore my pages using the menu above.
+On this site, you can explore my research, projects, and ideas at the crossroads of finance and technology.
+
