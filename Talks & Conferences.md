@@ -10,7 +10,6 @@ permalink: /talks/
   <a href="/skills" style="margin: 0 10px;">Skills</a> |
   <a href="/publications" style="margin: 0 10px;">Publications</a> |
   <a href="/talks" style="margin: 0 10px;">Talks</a> |
-  <a href="/gallery" style="margin: 0 10px;">Gallery</a> |
   <a href="/contact" style="margin: 0 10px;">Connect</a>
 </nav>
 
