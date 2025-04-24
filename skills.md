@@ -14,15 +14,15 @@ permalink: /skills/
   <a href="/contact" style="margin: 0 10px;">Connect</a>
 </nav>
 
-## 🧠 Skills
+## Skills
 
 ### 📊 Data Science & Financial Analytics
-- **Python**: Data Analysis and Financial Modeling
-- **Artifitial Inteligence**: Machine Learning, Neural Networks and Deep Learning
-- **Econometrics**: Statistical Modeling, Financial Markets Analysis
+- Data Analysis and Financial Modeling
+- Machine Learning, Neural Networks and Deep Learning
+- Econometrics: Statistical Modeling, Financial Markets Analysis
 
 ### 💻 Blockchain & Digital Finance
-- **Blockchain Technology**: Asset Tokenization, Smart Contracts, DLT
+- Blockchain Technology: Asset Tokenization, Smart Contracts, DLT
 
 ### 📐 Mathematics & Quantitative Modeling
 - Partial Differential Equations (PDEs)
@@ -30,8 +30,10 @@ permalink: /skills/
 - Functional Analysis
 
 ### 🖥️ Technical Tools & Software
-- **LaTeX**
+- **Python**
+- **AI**
 - **Git & GitHub**
+- - **LaTeX**
 - **Microsoft Office**
 - Basic knowledge of **SQL**, **R**, **EViews** & **WordPress** 
 
