@@ -16,7 +16,7 @@ permalink: /talks/
 
 ---
 
-###  Conferences – Oral Presentations
+###  Oral Presentations
 1. **16th ReCapNet Conference**, Stockholm, Sweden — *Oct 2024*  
 2. **30th ERES Conference**, Sopot & Gdańsk, Poland — *Jun 2024*  
 3. **Malmö Real Estate Research Conference**, Malmö, Sweden — *Apr 2024*  
