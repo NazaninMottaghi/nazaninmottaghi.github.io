@@ -15,7 +15,7 @@ permalink: /contact/
 </nav>
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 ### 📧 Emails  
 - [mottagh@kth.se](mailto:mottagh@kth.se)  
