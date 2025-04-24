@@ -30,10 +30,10 @@ permalink: /skills/
 - Functional Analysis
 
 ### 🖥️ Technical Tools & Software
-- **LaTeX**: Academic Writing & Publishing
-- **Git & GitHub**: Version Control & Collaboration
-- **Markdown**, Microsoft Office Suite
-- Basic knowledge of **SQL** & **WordPress**
+- **LaTeX**
+- **Git & GitHub**
+- **Microsoft Office**
+- Basic knowledge of **SQL**, **R**, **EViews** & **WordPress** 
 
 ### 🎓 Teaching & Academic Skills
 - University-level teaching in Mathematics, Statistics, Programming (Python)
