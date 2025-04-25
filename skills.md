@@ -15,7 +15,7 @@ permalink: /skills/
 
 ## Skills
 
-### 📊 Data Science & Financial Analytics
+### 📊 Data Science & Financial Analytics & Quantitative Modeling
 - Data Analysis and Financial Modeling
 - Machine Learning, Neural Networks and Deep Learning
 - Econometrics: Statistical Modeling, Financial Markets Analysis
@@ -23,7 +23,7 @@ permalink: /skills/
 ### 💻 Blockchain & Digital Finance
 - Blockchain Technology: Asset Tokenization, Smart Contracts, DLT
 
-### 📐 Mathematics & Quantitative Modeling
+### 📐 Mathematics 
 - Partial Differential Equations (PDEs)
 - Fractional Calculus
 - Functional Analysis
@@ -32,7 +32,7 @@ permalink: /skills/
 - **Python**
 - **AI**
 - **Git & GitHub**
-- - **LaTeX**
+- **LaTeX**
 - **Microsoft Office**
 - Basic knowledge of **SQL**, **R**, **EViews** & **WordPress** 
 
