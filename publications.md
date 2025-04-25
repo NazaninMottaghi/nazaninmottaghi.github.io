@@ -17,7 +17,7 @@ permalink: /publications/
 
 ---
 
-### 📊 Finance & Digital Finance Publications
+### 📊 Traditional & Digital Finance Publications
 1. **Bridging Traditional and Digital Assets: An Entropy Analysis of Real Estate Tokens and Financial Market Dynamics** (with B.I. Steininger), *Submitted*, 2025.
 2. **From MiCA to FTX: Regulatory Shocks, Liquidity Dynamics, and the Sustainability of DeFi and Stablecoin Markets** (with B.I. Steininger), *Submitted*, 2025.
 3. **Total Value Locked Volatility in DeFi: Empirical Evidence from Market Crashes** (with B.I. Steininger), *Submitted*, 2025.
