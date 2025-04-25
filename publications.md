@@ -18,12 +18,12 @@ permalink: /publications/
 ---
 
 ### 📊 Finance & Digital Finance Publications
-1. **Bridging Traditional and Digital Assets:** An Entropy Analysis of Real Estate Tokens and Financial Market Dynamics (with B.I. Steininger), *Submitted*, 2025.
-2. **From MiCA to FTX:** Regulatory Shocks, Liquidity Dynamics, and the Sustainability of DeFi and Stablecoin Markets (with B.I. Steininger), *Submitted*, 2025.
-3. **Total Value Locked Volatility in DeFi:** Empirical Evidence from Market Crashes (with B.I. Steininger), *Submitted*, 2025.
-4. **Real Estate Insights:** The Current State and the New Future of Tokenization in Real Estate (with B.I. Steininger, N. Yanagawa), *Journal of Property Investment & Finance*, 2024.
-5. **Real Estate Tokens:** Evaluating Long-term Relationships with Other Main Types of Assets (with B.I. Steininger), *Submitted*, 2024.
-6. **Exploring ESG Volatility Spillovers:** Evidence from Global Equity Markets (with M. De Giuli, L. Di Persio, A. Tanda), *Submitted*, 2024.
+1. **Bridging Traditional and Digital Assets: An Entropy Analysis of Real Estate Tokens and Financial Market Dynamics** (with B.I. Steininger), *Submitted*, 2025.
+2. **From MiCA to FTX: Regulatory Shocks, Liquidity Dynamics, and the Sustainability of DeFi and Stablecoin Markets** (with B.I. Steininger), *Submitted*, 2025.
+3. **Total Value Locked Volatility in DeFi: Empirical Evidence from Market Crashes** (with B.I. Steininger), *Submitted*, 2025.
+4. **Real Estate Insights: The Current State and the New Future of Tokenization in Real Estate** (with B.I. Steininger, N. Yanagawa), *Journal of Property Investment & Finance*, 2024.
+5. **Real Estate Tokens: Evaluating Long-term Relationships with Other Main Types of Assets** (with B.I. Steininger), *Submitted*, 2024.
+6. **Exploring ESG Volatility Spillovers: Evidence from Global Equity Markets** (with M. De Giuli, L. Di Persio, A. Tanda), *Submitted*, 2024.
 7. **Volatility Forecasting with Hybrid Neural Networks Methods for Risk Parity Investment Strategies** (with L. Di Persio, M. Garbelli, K. Wallbaum), *Expert Systems with Applications*, 2023.
 
 ---
