@@ -5,7 +5,7 @@
 
 # 👋 Welcome!
 
-Hi, I’m **Nazanin Mottaghi** — Postdoctoral Researcher at the Royal Institute of Technology (KTH), passionate about **Digital Finance**, **Blockchain**, **AI**, and the future of **investment, particularly in Real Estate Markets**.
+Hi, I’m **Nazanin Mottaghi** — Postdoctoral Researcher at the Royal Institute of Technology (KTH), passionate about **Digital Finance**, **Blockchain**, **AI**, and the future of **investment, particularly in real estate markets**.
 
 > *"Bridging traditional finance with innovative technologies to shape sustainable and efficient markets."*
 
