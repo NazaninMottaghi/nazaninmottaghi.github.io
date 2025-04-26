@@ -7,6 +7,7 @@ permalink: /talks/
 <nav style="text-align:center; font-size: 1.1em; margin-bottom: 20px;">
   <a href="/" style="margin: 0 10px;">Home</a> |
   <a href="/about" style="margin: 0 10px;">About Me</a> |
+  <a href="/work-experience" style="margin: 0 10px;">Work Experience</a> |
   <a href="/skills" style="margin: 0 10px;">Skills</a> |
   <a href="/publications" style="margin: 0 10px;">Publications</a> |
   <a href="/talks" style="margin: 0 10px;">Conferences</a> |
