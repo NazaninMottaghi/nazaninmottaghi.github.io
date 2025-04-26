@@ -9,7 +9,7 @@ permalink: /talks/
   <a href="/about" style="margin: 0 10px;">About Me</a> |
   <a href="/skills" style="margin: 0 10px;">Skills</a> |
   <a href="/publications" style="margin: 0 10px;">Publications</a> |
-  <a href="/talks" style="margin: 0 10px;">Talks & Conferences</a> |
+  <a href="/talks" style="margin: 0 10px;">Conferences</a> |
   <a href="/contact" style="margin: 0 10px;">Connect</a>
 </nav>
 
@@ -28,3 +28,15 @@ permalink: /talks/
 
 ###  Poster Presentations
 - **2nd Digital Futures Young Scientist Conference**, KTH, Stockholm — *Feb 2025*
+
+### 🎯 Conference & Seminar Organization
+
+- **Program Manager**, PropTech Talent Program — *Mar 2025 - Present*  
+  *KTH Royal Institute of Technology & Malmö University*
+
+- **Local Organizing Team Member**, 16th Real Estate Markets and Capital Markets (ReCapNet) Conference — *Oct 2024*  
+  *Stockholm, Sweden*
+
+- **Local Organizing Team Member**, 25+ Years of Master’s Education in Real Estate and Construction Management — *Jun 2024*  
+  *KTH, Stockholm*
+
