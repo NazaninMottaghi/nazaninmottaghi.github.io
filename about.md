@@ -22,7 +22,7 @@ With a Ph.D. in Mathematics and several years of postdoctoral experience, I brid
 
 Throughout my career, I have collaborated with startups, contributed to cutting-edge research, and presented at international conferences. 
 
-Beyond research, I am passionate about teaching, mentoring talents in digital finance, and promoting inclusive education. I believe in leveraging technology to create more accessible, transparent, and sustainable financial ecosystems.
+Beyond research, I am passionate about teaching, mentoring, and promoting inclusive education. I believe in leveraging technology to create more accessible, transparent, and sustainable financial ecosystems.
 
 When I’m not diving into data or blockchain protocols, you’ll find me enjoying nature walks in Stockholm, practicing languages, or caring for my plants.
 
