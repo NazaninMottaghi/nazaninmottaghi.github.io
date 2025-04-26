@@ -18,7 +18,7 @@ permalink: /about/
 ## About Me
 
 Hi, I’m Nazanin, a Postdoctoral Researcher in Digital Finance with a strong background in Mathematics, Blockchain, DeFi, and Real Estate Tokenization at KTH Royal Institute of Technology.
-With a Ph.D. in Mathematics and several years of postdoctoral experience, my work bridges the gap between advanced quantitative methods and innovative financial technologies. I focus on exploring how decentralized finance (DeFi), blockchain, and tokenization are transforming traditional markets, especially in the real estate sector.
+With a Ph.D. in Mathematics and several years of postdoctoral experience, I bridge advanced quantitative methods with innovative financial technologies, focusing on how decentralized finance (DeFi), blockchain, and tokenization are transforming traditional markets, particularly in the real estate sector.
 
 Throughout my career, I have collaborated with startups, contributed to cutting-edge research, and presented at international conferences. 
 
