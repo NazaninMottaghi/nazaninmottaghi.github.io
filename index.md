@@ -14,7 +14,7 @@ Hi, I’m **Nazanin Mottaghi** — Postdoctoral Researcher at the Royal Institut
 ## 🚀 Explore My Work
 
 - 📄 [About Me](/about)  
-- 💼 [Work Experience](/work-experience)  
+- 💼 [Work Experience](/work)  
 - 📚 [Publications](/publications)  
 - 🎤 [Talks & Conferences](/talks)  
 - 🧩 [Skills](/skills)  
