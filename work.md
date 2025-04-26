@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Work Experience
-permalink: /work-experience/
+permalink: /work/
 ---
 
 <nav style="text-align:center; font-size: 1.1em; margin-bottom: 20px;">
