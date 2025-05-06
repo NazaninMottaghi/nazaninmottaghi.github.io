@@ -3,7 +3,7 @@
        style="width:180px; border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom:20px;">
 </p>
 
-# 👋 Welcome!
+# Welcome!
 
 Hi, I’m **Nazanin Mottaghi** — Postdoctoral Researcher at the Royal Institute of Technology (KTH), passionate about **Digital Finance**, **Blockchain**, **AI**, and the future of **investment, particularly in real estate markets**.
 
@@ -11,7 +11,7 @@ Hi, I’m **Nazanin Mottaghi** — Postdoctoral Researcher at the Royal Institut
 
 ---
 
-## 🚀 Explore My Work
+## Explore My Work
 
 - 📄 [About Me](/about)  
 - 💼 [Work Experience](/work)  
