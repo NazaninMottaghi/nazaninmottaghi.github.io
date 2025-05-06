@@ -49,7 +49,7 @@ permalink: /skills/
 
 ---
 
-> 📜 **Certificates**:  
+> **Certificates**:  
 > - DeFi Talents Program (Frankfurt School of Finance & Management)  
 > - Teaching in the Glocal University (Karolinska Institutet)  
 > - Teaching and Learning in Higher Education (KTH)  
