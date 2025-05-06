@@ -18,8 +18,8 @@ permalink: /work/
 
 ---
 
-### 🧑‍🔬 Research Experience
-- **Postdoctoral Researcher**, KTH Royal Institute of Technology — *Nov 2023 – Present*  
+### Research Experience
+- **Postdoctoral Researcher**, KTH Royal Institute of Technology — *Nov 2023 – Apr 2025*  
   *Research Area: Asset Tokenization (Blockchain in Finance)*
 
 - **Postdoctoral Researcher**, Sharif University of Technology — *Jun 2023 – Dec 2023*  
@@ -33,11 +33,11 @@ permalink: /work/
 
 ---
 
-### 🎓 Teaching Experience
-- **Mentor**, PropTech Talent Program — *Mar 2025 – Present*  
+### Teaching Experience
+- **Mentor**, PropTech Talent Program — *Mar 2025 – Jun 2025*  
   *KTH & Malmö University*
 
-- **Teaching Assistant**, KTH Royal Institute of Technology — *Jan 2024 – Present*  
+- **Teaching Assistant**, KTH Royal Institute of Technology — *Jan 2024 – Oct 2024*  
   *(Applied Statistics, Mathematics for Economists, Blockchain and DeFi)*
 
 - **University Lecturer**, Iran University of Science and Technology — *Mar 2022 – Aug 2023*  
@@ -45,14 +45,14 @@ permalink: /work/
 
 ---
 
-### 🏢 Academic Administrative Experience
-- **Program Manager**, PropTech Talent Program — *Mar 2025 – Present*  
+### Academic Administrative Experience
+- **Program Manager**, PropTech Talent Program — *Mar 2025 – Jun 2025*  
 - **Organizing Team Member**, 16th ReCapNet Conference — *Oct 2024*  
 - **Organizing Team Member**, 25+ Years of Real Estate Education Event — *Jun 2024*
 
 ---
 
-### 🚀 Professional Development
+### Professional Development
 - **DeFi Talents Program**, Frankfurt School of Finance & Management — *Oct 2024 – Mar 2025*  
   *Blockchain, DeFi & Financial Systems*
 
