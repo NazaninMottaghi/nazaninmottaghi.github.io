@@ -16,20 +16,20 @@ permalink: /skills/
 
 ## Skills
 
-### 📊 Data Science & Financial Analytics & Quantitative Modeling
+### Data Science & Financial Analytics & Quantitative Modeling
 - Data Analysis and Financial Modeling
 - Machine Learning, Neural Networks and Deep Learning
 - Econometrics: Statistical Modeling, Financial Markets Analysis
 
-### 💻 Blockchain & Digital Finance
+### Blockchain & Digital Finance
 - Blockchain Technology: Asset Tokenization, Smart Contracts, DLT
 
-### 📐 Mathematics 
+### Mathematics 
 - Partial Differential Equations (PDEs)
 - Fractional Calculus
 - Functional Analysis
 
-### 🖥️ Technical Tools & Software
+### Technical Tools & Software
 - **Python**
 - **AI**
 - **Git & GitHub**
@@ -37,12 +37,12 @@ permalink: /skills/
 - **Microsoft Office**
 - Basic knowledge of **SQL**, **R**, **EViews** & **WordPress** 
 
-### 🎓 Teaching & Academic Skills
+### Teaching & Academic Skills
 - University-level teaching in Mathematics, Statistics, Programming (Python)
 - Mentorship in PropTech & Digital Finance Programs
 - Certified in Higher Education Teaching (KTH & Karolinska Institutet)
 
-### 🌐 Languages
+### Languages
 - **English**: Full Professional Proficiency
 - **Persian**: Native
 - **Swedish** & **French**: Elementary
