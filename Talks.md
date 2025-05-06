@@ -14,7 +14,7 @@ permalink: /talks/
   <a href="/contact" style="margin: 0 10px;">Connect</a>
 </nav>
 
-## 🎙️ Talks & Conferences
+## Talks & Conferences
 
 ---
 
@@ -30,7 +30,7 @@ permalink: /talks/
 ###  Poster Presentations
 - **2nd Digital Futures Young Scientist Conference**, KTH, Stockholm — *Feb 2025*
 
-### 🎯 Conference & Seminar Organization
+### Conference & Seminar Organization
 
 - **Program Manager**, PropTech Talent Program — *Mar 2025 - Present*  
   *KTH Royal Institute of Technology & Malmö University*
