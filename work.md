@@ -14,7 +14,7 @@ permalink: /work/
   <a href="/contact" style="margin: 0 10px;">Connect</a>
 </nav>
 
-## 💼 Work Experience
+## Work Experience
 
 ---
 
