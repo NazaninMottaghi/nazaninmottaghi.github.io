@@ -19,7 +19,7 @@ permalink: /work/
 ---
 
 ### Research Experience
-- **Postdoctoral Researcher**, KTH Royal Institute of Technology — *Nov 2023 – Apr 2025*  
+- **Postdoctoral Researcher**, KTH Royal Institute of Technology — *Nov 2023 – Present*  
   *Research Area: Asset Tokenization (Blockchain in Finance)*
 
 - **Postdoctoral Researcher**, Sharif University of Technology — *Jun 2023 – Dec 2023*  
