@@ -19,11 +19,13 @@ permalink: /talks/
 ---
 
 ###  Oral Presentations
-1. **16th ReCapNet Conference**, Stockholm, Sweden — *Oct 2024*  
-2. **30th ERES Conference**, Sopot & Gdańsk, Poland — *Jun 2024*  
-3. **Malmö Real Estate Research Conference**, Malmö, Sweden — *Apr 2024*  
-4. **14th Seminar on Differential Equations**, Zanjan, Iran — *Jul 2018*  
-5. **9th Seminar on Nonlinear Analysis**, Qazvin, Iran — *Feb 2018*  
+1. **4th International Conference on Alternative Finance Research**, kristinasand, Norway — *June 2025*
+2. **Malmö Real Estate Research Conference**, Malmö, Sweden — *May 2025*
+3. **16th ReCapNet Conference**, Stockholm, Sweden — *Oct 2024*  
+4. **30th ERES Conference**, Sopot & Gdańsk, Poland — *Jun 2024*  
+5. **Malmö Real Estate Research Conference**, Malmö, Sweden — *Apr 2024*  
+6. **14th Seminar on Differential Equations**, Zanjan, Iran — *Jul 2018*  
+7. **9th Seminar on Nonlinear Analysis**, Qazvin, Iran — *Feb 2018*  
 
 ---
 
