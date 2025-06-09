@@ -19,7 +19,7 @@ permalink: /talks/
 ---
 
 ###  Oral Presentations
-1. **4th International Conference on Alternative Finance Research**, kristinasand, Norway — *June 2025*
+1. **4th International Conference on Alternative Finance Research**, kristinasand, Norway — *Jun 2025*
 2. **Malmö Real Estate Research Conference**, Malmö, Sweden — *May 2025*
 3. **16th ReCapNet Conference**, Stockholm, Sweden — *Oct 2024*  
 4. **30th ERES Conference**, Sopot & Gdańsk, Poland — *Jun 2024*  
