@@ -32,6 +32,7 @@ permalink: /talks/
 ###  Poster Presentations
 - **2nd Digital Futures Young Scientist Conference**, KTH, Stockholm — *Feb 2025*
 
+---
 ### Conference & Seminar Organization
 
 - **Program Manager**, PropTech Talent Workshop — *Mar 2025 - Present*  
