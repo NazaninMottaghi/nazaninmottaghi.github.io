@@ -67,3 +67,20 @@ footer {
   color: #777;
   font-size: 0.9rem;
 }
+.main-nav {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: #333;
+  margin: 0 14px;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.main-nav a:hover {
+  color: #000;
+  text-decoration: underline;
+}
