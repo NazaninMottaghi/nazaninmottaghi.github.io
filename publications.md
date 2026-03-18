@@ -3,7 +3,7 @@ layout: default
 title: Publications & Talks
 permalink: /publications/
 ---
-
+<!--
 <nav style="text-align:center; font-size: 1.1em; margin-bottom: 20px;">
   <a href="/" style="margin: 0 10px;">Home</a> |
   <a href="/about" style="margin: 0 10px;">About</a> |
@@ -13,7 +13,7 @@ permalink: /publications/
   <a href="/skills" style="margin: 0 10px;">Skills</a> |
   <a href="/contact" style="margin: 0 10px;">Connect</a>
 </nav>
-
+-->
 ## Publications
 
 ---
