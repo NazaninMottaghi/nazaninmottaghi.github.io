@@ -56,6 +56,7 @@ permalink: /work/
 - **DeFi Talents Program**, Frankfurt School of Finance & Management — *Oct 2024 – Mar 2025*  
   *Blockchain, DeFi & Financial Systems*
 
+---
 
 <p align="center">
   <a href="/about/">About Me</a> |
