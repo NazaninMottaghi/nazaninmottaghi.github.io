@@ -33,9 +33,10 @@ permalink: /contact/
 - [LinkedIn](https://www.linkedin.com/in/nazanin-mottaghi)  
 - [GitHub](https://github.com/NazaninMottaghi)  
 - [Kaggle](https://www.kaggle.com/nazaninmottaghi2022)  
-- [Medium](https://medium.com/@nazaninmottaghi)  
-#- [DeFi Talent Profile](https://web3-talents.io/defitalents/defi-talents-profile/defi-talents-profile-nazanin-mottaghi/)
-
+- [Medium](https://medium.com/@nazaninmottaghi)
+<!--
+- [DeFi Talent Profile](https://web3-talents.io/defitalents/defi-talents-profile/defi-talents-profile-nazanin-mottaghi/)
+-->
 ---
 
 <p align="center">
