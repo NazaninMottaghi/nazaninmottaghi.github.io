@@ -20,12 +20,12 @@ Hi, I’m Nazanin Mottaghi — Postdoctoral Researcher at KTH Royal Institute of
 ## Explore My Work
 
 <nav class="main-nav">
-  <a href="/about/">About Me</a>
-  <a href="/work/">Work Experience</a>
-  <a href="/publications/">Publications</a>
-  <a href="/talks/">Talks & Conferences</a>
-  <a href="/skills/">Skills</a>
-  <a href="/contact/">Connect With Me</a>
+  <a href="/about/">About Me |</a>
+  <a href="/work/">Work Experience |</a>
+  <a href="/publications/">Publications |</a>
+  <a href="/talks/">Talks & Conferences |</a>
+  <a href="/skills/">Skills |</a>
+  <a href="/contact/">Connect With Me |</a>
 </nav>
 
 <p align="center">
