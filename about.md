@@ -4,30 +4,21 @@ title: About Me
 permalink: /about/
 ---
 
-
-<nav style="text-align:center; font-size: 1.1em; margin-bottom: 20px;">
-  <a href="/" style="margin: 0 10px;">Home</a> |
-  <a href="/about" style="margin: 0 10px;">About</a> |
-  <a href="/work" style="margin: 0 10px;">Experience</a> |
-  <a href="/publications" style="margin: 0 10px;">Publications</a> |
-  <a href="/talks" style="margin: 0 10px;">Conferences</a> |
-  <a href="/skills" style="margin: 0 10px;">Skills</a> |
-  <a href="/contact" style="margin: 0 10px;">Connect</a>
-</nav>
-
-
 ## About Me
 
-Hi, I’m Nazanin, a Postdoctoral Researcher in Digital Finance with a strong background in Mathematics, Blockchain, DeFi, and Real Estate Tokenization at KTH Royal Institute of Technology.
-With a Ph.D. in Mathematics and several years of postdoctoral experience, I bridge advanced quantitative methods with innovative financial technologies, focusing on how decentralized finance (DeFi), blockchain, and tokenization are transforming traditional markets, particularly in the real estate sector. I believe in leveraging technology to create more accessible, transparent, and sustainable financial ecosystems.
+I am **Nazanin Mottaghi**, a **Postdoctoral Researcher in Digital Finance** at **KTH Royal Institute of Technology**.
 
-Throughout my career, I have collaborated with startups, contributed to cutting-edge research, and presented at international conferences. 
+My work lies at the intersection of **artificial intelligence, blockchain, DeFi, tokenized real estate, and financial econometrics**. With a Ph.D. in Mathematics and an interdisciplinary research background, I focus on how emerging digital technologies are reshaping financial systems, investment behavior, and real estate markets.
 
-Beyond research, I am passionate about teaching, mentoring, and promoting inclusive education. 
+My current research explores topics such as:
+- tokenized real estate and real-world assets
+- AI-driven financial econometrics
+- DeFi market dynamics and shock transmission
+- information efficiency and entropy-based analysis
+- dependence structures across digital and traditional asset classes
 
-When I’m not diving into data or blockchain protocols, you’ll find me enjoying nature walks in Stockholm, practicing languages, or caring for my plants.
+Beyond research, I care deeply about **teaching, mentoring, and interdisciplinary collaboration**. I enjoy contributing to projects that connect rigorous quantitative methods with real-world applications in finance and technology.
 
-Feel free to explore my projects, publications, and insights into the future of finance and technology!
+Outside academia, I enjoy nature walks, learning languages, and quiet time with my plants in Stockholm.
 
-
-
+Feel free to explore my website to learn more about my research, publications, and ongoing projects.
