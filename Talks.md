@@ -35,7 +35,7 @@ permalink: /talks/
 ---
 ### Conference & Seminar Organization
 
-- **Program Manager**, PropTech Talent Workshop — *Mar 2025 - Present*  
+- **Program Manager**, PropTech Talent Workshop — *Mar 2025 - Aug 2025*  
   *KTH Royal Institute of Technology & Malmö University*
 
 - **Local Organizing Team Member**, 16th Real Estate Markets and Capital Markets (ReCapNet) Conference — *Oct 2024*  
