@@ -18,8 +18,8 @@ Hi, I’m Nazanin Mottaghi — Postdoctoral Researcher at KTH Royal Institute of
 ---
 
 ## Explore My Work
-<p align="center">
-#<nav class="main-nav">
+<!--
+<nav class="main-nav">
   
   <a href="/about/">About Me</a>
   
@@ -33,10 +33,17 @@ Hi, I’m Nazanin Mottaghi — Postdoctoral Researcher at KTH Royal Institute of
   
   <a href="/contact/">Connect With Me</a>
   
-#</nav>
-</p>
+</nav>
+  -->
 
 <p align="center">
+  <a href="/about/">About Me</a>
+  <a href="/work/">Work Experience</a>
+  <a href="/publications/">Publications</a>
+  <a href="/talks/">Talks & Conferences</a>
+  <a href="/skills/">Skills</a>
+  <a href="/contact/">Connect With Me</a>
+  
   <a href="https://www.linkedin.com/in/nazanin-mottaghi">LinkedIn</a> |
   <a href="https://www.researchgate.net/profile/Fatemeh-Mottaghi">ResearchGate</a> |
   <a href="mailto:mottagh@kth.se">Email</a>
