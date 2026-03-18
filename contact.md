@@ -34,6 +34,7 @@ permalink: /contact/
 - [GitHub](https://github.com/NazaninMottaghi)  
 - [Kaggle](https://www.kaggle.com/nazaninmottaghi2022)  
 - [Medium](https://medium.com/@nazaninmottaghi)
+  
 ---
 
 <p align="center">
