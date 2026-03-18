@@ -19,7 +19,7 @@ Hi, I’m Nazanin Mottaghi — Postdoctoral Researcher at KTH Royal Institute of
 
 ## Explore My Work
 <p align="center">
-<nav class="main-nav">
+#<nav class="main-nav">
   
   <a href="/about/">About Me</a>
   
@@ -33,7 +33,7 @@ Hi, I’m Nazanin Mottaghi — Postdoctoral Researcher at KTH Royal Institute of
   
   <a href="/contact/">Connect With Me</a>
   
-</nav>
+#</nav>
 </p>
 
 <p align="center">
