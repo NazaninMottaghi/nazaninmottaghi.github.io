@@ -22,3 +22,19 @@ Beyond research, I care deeply about teaching, mentoring, and interdisciplinary 
 Outside academia, I enjoy nature walks, learning languages, and quiet time with my plants in Stockholm.
 
 Feel free to explore my website to learn more about my research, publications, and ongoing projects.
+
+---
+
+<p align="center">
+  <a href="/about/">About Me</a> |
+  <a href="/work/">Work Experience</a> |
+  <a href="/publications/">Publications</a> |
+  <a href="/talks/">Talks & Conferences</a> |
+  <a href="/skills/">Skills</a> |
+  <a href="/contact/">Connect With Me</a> 
+</p>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/nazanin-mottaghi">LinkedIn</a> |
+  <a href="https://www.researchgate.net/profile/Fatemeh-Mottaghi">ResearchGate</a> |
+  <a href="mailto:mottagh@kth.se">Email</a>
+</p>
