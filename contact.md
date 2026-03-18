@@ -35,3 +35,14 @@ permalink: /contact/
 - [Kaggle](https://www.kaggle.com/nazaninmottaghi2022)  
 - [Medium](https://medium.com/@nazaninmottaghi)  
 - [DeFi Talent Profile](https://web3-talents.io/defitalents/defi-talents-profile/defi-talents-profile-nazanin-mottaghi/)
+
+---
+
+<p align="center">
+  <a href="/about/">About Me</a> |
+  <a href="/work/">Work Experience</a> |
+  <a href="/publications/">Publications</a> |
+  <a href="/talks/">Talks & Conferences</a> |
+  <a href="/skills/">Skills</a> |
+  <a href="/contact/">Connect With Me</a> 
+</p>
