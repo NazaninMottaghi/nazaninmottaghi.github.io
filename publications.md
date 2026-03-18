@@ -42,7 +42,7 @@ permalink: /publications/
 
 > For a full list of my works, visit my [ResearchGate](https://www.researchgate.net/profile/Fatemeh-Mottaghi) or [Google Scholar](https://scholar.google.com/citations?user=ilBeG3EAAAAJ&hl=en).
 >
-> ---
+---
 
 <p align="center">
   <a href="/about/">About Me</a> |
